@@ -1,2 +1,4 @@
 # winforms-listview-custom-drawing-example
-This example explains about custom drawing for the winforms listview item. This example shows custom drawing of multiple text lines with the images for the listview items.
+Make a custom drawing for every list item. This example explains about custom drawing for the winforms listview item. 
+
+![ListView Custom Drawing](Multiline/CS/Images/CustomDrawingLine.png)
