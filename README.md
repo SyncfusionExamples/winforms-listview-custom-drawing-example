@@ -1,4 +1,4 @@
-# winforms-listview-custom-drawing-example
+# WinForms ListView Custom Drawing Example
 This repository demonstrates how to implement custom drawing for items in a Windows Forms ListView control.
 ## Overview
 In many applications, the default rendering of ListView items may not be sufficient—especially when displaying rich content like:
